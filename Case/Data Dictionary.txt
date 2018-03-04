@@ -1,0 +1,16 @@
+vru+line	
+call_id	
+customer_id	
+priority	
+type	
+date	
+vru_entry	
+vru_exit	
+vru_time	
+q_start	
+q_exit	
+q_time	
+outcome	ser_start	
+ser_exit	
+ser_time	
+server
